@@ -1,13 +1,13 @@
 var users = [
     {
-        "name" : "dhurandhar",
-        "gender" : "Male",
-        "img" : "anidhu.jpeg"
+        "name" : "Nerdy Anish",
+        "gender" : "Unknown",
+        "img" : "nerd.jpeg"
     },
     {
-        "name" : "wat da dawg doin",
-        "gender" : "dawg",
-        "img" : "nerd.jpeg"
+        "name" : "Angry Anish",
+        "gender" : "Still Unknown",
+        "img" : "anidhu.jpeg"
     }
 ]
 
